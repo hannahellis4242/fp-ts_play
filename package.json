@@ -1,0 +1,29 @@
+{
+  "name": "fp-ts_play",
+  "version": "1.0.0",
+  "description": "Some experiments with fp-ts",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "build-watch": "tsc -w",
+    "run-option": "node dist/option.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hannahellis4242/fp-ts_play.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hannahellis4242/fp-ts_play/issues"
+  },
+  "homepage": "https://github.com/hannahellis4242/fp-ts_play#readme",
+  "devDependencies": {
+    "@types/node": "^18.16.0",
+    "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "fp-ts": "^2.14.0"
+  }
+}
