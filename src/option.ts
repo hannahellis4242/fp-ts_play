@@ -1,6 +1,6 @@
 import { Option, getOrElse, flatMap, map, none, some } from "fp-ts/lib/Option";
 
-console.log("Options");
+console.log("Option");
 console.log(new Array(50).fill("-").join(""));
 console.log("");
 console.log("Init");
