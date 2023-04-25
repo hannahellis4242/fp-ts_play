@@ -6,7 +6,8 @@
   "scripts": {
     "build": "tsc",
     "build-watch": "tsc -w",
-    "run-option": "node dist/option.js"
+    "run-option": "node dist/option.js",
+    "run-either": "node dist/either.js"
   },
   "repository": {
     "type": "git",
